@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">smartPenForBoard</string>
+    <string name="hello_world">请选择书写幅面，默认为A4</string>
+    <string name="scan_smartpen">扫描智能笔</string>
+    <string name="unknown_device">未知设备</string>
+    <string name="jiaozhun">进入校准状态</string>
+    <string name="hintText">请点击图中的十字图标进行校准</string>
+    <string name="exitjiaozhun">退出校准状态</string>
+    <string name="refreshinfo">刷新信息</string>
+    <string name="traingesture">训练手势</string>
+    <string name="set_gesture_name">set gesture name:</string>
+    <string name="showpicture">显示背景图</string>
+    
+    
+</resources>
